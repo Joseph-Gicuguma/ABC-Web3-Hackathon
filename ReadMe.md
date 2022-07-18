@@ -14,23 +14,50 @@
 
 ![](https://img.shields.io/badge/Hackathon-blueviolet)
 
-# Reach NFT with Royalties
+# ABC Web3 Hackathon NFT with Transfer Royalties
+> A simple DAPP where users and creators aution and sell their NFTs but most importantly get to enjoy royalty benefits when the NFT is resold.
 
-> A simple DAPP where users can creators aution and sell their NFTs but most importantly get to enjoy royalty benefits when the NFT is resold.
+# Team Name : Joan Ball
+
+# Team Memebers:
+- Ryan Koech
+- Joseph Gicuguma
+- Francis Waweru
+
+# Problem 
+
+- Goal 9 : Industry, Innovation and Infrastructure
+
+> A simple DAPP where users and creators aution and sell their NFTs but most importantly get to enjoy royalty benefits when the NFT is resold.
 
 
-## Built With
+
+## Description of Code Base
+
+
+## Languages/ Frameworks
 
 - Major languages: HTML, CSS, Javascript, Reach
 - Frameworks: Tailwind CCS, React
 - Technologies used: [Reach](https://reach.sh/)
+
+## Blockchain Protocol Used
+- Algorand 
+
+## Instructions on How to Run The Code
+
+
+## Link on Video Demo
+https://drive.google.com/file/d/1FrJX4qLgvgUWfTW0iynGZX84-FgMEYO-/view
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Instruction on How to run the code 
+
+### Prerequisites 
 - Running on [Ubuntu](https://ubuntu.com/) on similar OS.
 - Installed [Make](https://linuxhint.com/install-make-ubuntu/).
 - Installed [Docker](https://www.docker.com/) and Docker-Compose. **Use sudo apt command**
