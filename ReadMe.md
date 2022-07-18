@@ -20,9 +20,9 @@
 # Team Name : Joan Ball
 
 # Team Memebers:
-- Ryan Koech
-- Joseph Gicuguma
-- Francis Waweru
+- Ryan Koech: sirryankoech@gmail.com
+- Joseph Gicuguma: gicugumajoseph@gmail.com
+- Francis Waweru: hazardcryptos@gmail.com
 
 # Problem 
 
