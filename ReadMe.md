@@ -28,12 +28,13 @@
 
 - Goal 9 : Industry, Innovation and Infrastructure
 
-> A simple DAPP where users and creators aution and sell their NFTs but most importantly get to enjoy royalty benefits when the NFT is resold.
+> We have always been intrigued by the new innovation and trend behind non-fungible tokens and as a result we decided to work on an NFT Transfer With Royalties dAPP which would help solve the complication of rewards that reach the original creators of the digital arts that are turned into NFTs.
 
 
 
 ## Description of Code Base
-
+-HTML, CSS, Javascript - Design and develop the frontend of the dAPP
+-Reach programming language was used to write the smart contracts.
 
 ## Languages/ Frameworks
 
@@ -45,10 +46,10 @@
 - Algorand 
 
 ## Instructions on How to Run The Code
-
+> Here is a link to our projects tutorial exlanation: https://docs.google.com/document/d/1xcLWQDeg8dmO2zAGS2CCCcJav7WmM8rTeqOof2eTRGI/edit?usp=sharing
 
 ## Link on Video Demo
-https://drive.google.com/file/d/1FrJX4qLgvgUWfTW0iynGZX84-FgMEYO-/view
+> Here is a link to our projects' Video Demo: https://drive.google.com/file/d/1FrJX4qLgvgUWfTW0iynGZX84-FgMEYO-/view
 
 
 ## Getting Started
