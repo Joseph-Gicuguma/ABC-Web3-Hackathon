@@ -87,12 +87,6 @@ export class Creator extends Component {
     this.state.resIsAuctionOn(res);
   }
 
-  setHasShownContractInfo() {
-    this.setState({
-      hasShownContractInfo: true
-    })
-  }
-
   async deployContract(nftTemplate, nftId){
 
     this.nftTemplate = nftTemplate;
@@ -115,6 +109,12 @@ export class Creator extends Component {
 
     console.log("Info: ", contractInfo);
 
+  }
+
+  setHasShownContractInfo() {
+    this.setState({
+      hasShownContractInfo: true
+    })
   }
 
   render() {

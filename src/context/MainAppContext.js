@@ -39,9 +39,11 @@ export const MainAppProvider = ({children}) => {
       setAccountBal(0);
     }
     if (await reach.canFundFromFaucet()) {
+      console.log("Can Fund from Faucet boys!");
       console.log(accAdd);
       console.log(bal);
     } else {
+      console.log("Ahhh shit here we go again.");
       console.log(accAdd);
       console.log(bal);
     }

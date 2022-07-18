@@ -29,6 +29,16 @@ exports.ConnectWallet = ({connectWallet}) => {
           <div>
             <img className="w-full" src={bgImg} alt="nft" />
           </div>
+
+          {/* <div className="absolute flex flex-col py-8 md:min-w-[760px] button-[-5%] mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-200 border-slate-300 rounded-xl text-center shadow-xl">
+          <p>Data Services</p>
+          <div>
+            <p><scaleIcon/>Icon, Create</p>
+            <p><scaleIcon/>Icon, Bidder</p>
+            <p><scaleIcon/>Icon, Create</p>
+            <p><scaleIcon/>Icon, Create</p>
+          </div>
+        </div> */}
         </div>
       </div>
     </div>
